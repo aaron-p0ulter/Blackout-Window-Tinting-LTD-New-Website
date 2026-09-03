@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 60" width="260" height="60" role="img" aria-label="Blackout Window Tinting LTD">
+  <g>
+    <path d="M16 32c22 4 45 1 66-5 31-9 61-20 95-17 22 2 36 8 50 18-21-8-43-8-67-5-28 3-52 9-77 12-26 4-48 2-67-3Z" fill="#e72c2c"/>
+    <path d="M42 33c15 13 32 15 58 12 31-4 53-15 80-12-19 2-38 9-57 14-34 8-61 3-81-14Z" fill="#0a1c39"/>
+    <path d="M120 24c12 13 31 17 55 15 20-2 34-1 49 7-17-3-30-1-49 2-28 4-46-5-55-24Z" fill="#e72c2c"/>
+  </g>
+  <text x="0" y="54" font-family="'Barlow Condensed', sans-serif" font-weight="800" font-size="22" fill="#e72c2c" letter-spacing="0.5">BLACKOUT</text>
+  <text x="103" y="54" font-family="'Barlow Condensed', sans-serif" font-weight="800" font-size="11" fill="#0a1c39" letter-spacing="1.5">WINDOW TINTING LTD</text>
+</svg>
